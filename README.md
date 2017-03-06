@@ -1,9 +1,9 @@
 # Coursers-
 This folder include all the courses (online and offline) 
 
-•	A/B Testing
-•	Machine Learning 
-•	Time Series Forecasting
+1. A/B Testing
+2. Machine Learning 
+3. Time Series Forecasting
 
 
 Courses I want to/will take: 
