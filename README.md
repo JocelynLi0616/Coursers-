@@ -8,8 +8,8 @@ This folder include all the courses (online and offline)
 
 Courses I want to/will take: 
 
-Udacity Predictive Analytics for Business Program 
-•	Problem Solving with Advanced Analytics
+#Udacity Predictive Analytics for Business Program 
+#•	Problem Solving with Advanced Analytics
 https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976
 •	Creating an Analytical Dataset
 https://www.udacity.com/course/creating-an-analytical-dataset--ud977
