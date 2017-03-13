@@ -1,0 +1,17 @@
+#####################################
+Intro to Hadoop and MapReduce
+Course Leads: Sarah Sproehnle, Ian Wrigley, Gundega Dekena
+https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
+
+Jocelyn (Yuan) Li
+March 2017
+#####################################
+
+About this Course
+The Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing. Learn the fundamental principles behind it, and how you can use its power to make sense of your Big Data.
+ Key words: Cloudera ,Big Data, MapReduce, Apache Hadoop, Pig, Hive
+Why Take This Course
+•	How Hadoop fits into the world (recognize the problems it solves)
+•	Understand the concepts of HDFS and MapReduce (find out how it solves the problems)
+•	Write MapReduce programs (see how we solve the problems)
+•	Practice solving problems on your own
