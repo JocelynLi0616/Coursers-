@@ -78,10 +78,16 @@ https://www.udacity.com/course/product-design--ud509
 
 
 
-Great websites---------
-Statistics Web
+###Great websites---------
+###Statistics Web
 1. The Minitab Blog 
 http://blog.minitab.com/
 
+2. 
+
+
+
+### Books will read 
+1. Hadoop: The Definitive Guide
 2. 
 
