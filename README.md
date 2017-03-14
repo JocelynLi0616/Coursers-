@@ -63,7 +63,8 @@ https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
 https://www.udacity.com/course/intro-to-html-and-css--ud304
 2. Product Design
 https://www.udacity.com/course/product-design--ud509
-3. 
+3. [Finished] Hadoop and MapReduce
+https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
 
 
 
