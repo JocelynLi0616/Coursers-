@@ -1,15 +1,63 @@
-###Udacity Predictive Analytics for Business Program 
-1. [Finished] Problem Solving with Advanced Analytics
-https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976
-2. [Finished] Creating an Analytical Dataset [Highlights: Alteryx]
-https://www.udacity.com/course/creating-an-analytical-dataset--ud977
-3. Data Visualization in Tableau
-https://www.udacity.com/course/data-visualization-in-tableau--ud1006
-4. Classification Models
-https://www.udacity.com/course/classification-models--ud978
-5. [Finished] A/B Testing for Business Analysts [Highlights: Alteryx] 
-https://www.udacity.com/course/ab-testing--ud979
-6. [Finished] Time Series Forecasting [Highlights: Alteryx] 
-https://www.udacity.com/course/time-series-forecasting--ud980
-7. Segmentation and Clustering
-https://www.udacity.com/course/segmentation-and-clustering--ud981
+###Udacity Data Analyst Nanodegree  
+
+1.	Find the Optimal Chopstick Length
+
+An opportunity to get started with data analysis and receive some quick feedback about your progress.
+
+Set up iPython notebook and commonly used data analysis libraries on your own computer. Use them to dig into the results of an experiment testing the optimal length of chopsticks and present your findings.
+
+Intro to Descriptive Statistics
+https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
+
+2.	Test a Perceptual Phenomenon
+ 
+Use descriptive statistics and a statistical test to analyze the Stroop effect, a classic result of experimental psychology. Give your readers a good intuition for the data and use statistical inference to draw a conclusion based on the results.
+
+Intro to Descriptive Statistics
+https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
+
+Intro to Inferential Statistics
+https://www.udacity.com/course/intro-to-inferential-statistics--ud201
+
+3.	Investigate a Dataset
+Choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. Go through the entire data analysis process, starting by posing a question and finishing by sharing your findings.
+
+Intro to Data Analysis
+https://www.udacity.com/course/intro-to-data-analysis--ud170
+
+4.	Wrangle OpenStreetMap Data
+Choose any area of the world in  https://www.openstreetmap.org and use data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data for a part of the world that you care about.
+
+Data Wrangling with MongoDB
+https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
+
+
+5.	Explore and Summarize Data
+Use R and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies.
+
+Data Analysis with R
+https://www.udacity.com/course/data-analysis-with-r--ud651
+
+6.	Identify Fraud from Enron Email
+Play detective and put your machine learning skills to use by building an algorithm to identify Enron Employees who may have committed fraud based on the public Enron financial and email dataset.
+Intro to Machine Learning
+https://www.udacity.com/course/intro-to-machine-learning--ud120
+
+7.	Make Effective Data Visualization
+Create a data visualization from a data set that tells a story or highlights trends or patterns in the data. Use either dimple.js or d3.js to create the visualization. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
+
+Intro to HTML and CSS
+https://www.udacity.com/course/intro-to-html-and-css--ud304
+
+Data Visualization and D3.js
+https://www.udacity.com/course/data-visualization-and-d3js--ud507
+
+JavaScript Basics
+https://www.udacity.com/course/javascript-basics--ud804
+
+8.	Design an A/B Test
+Make design decisions for an A/B test, including which metrics to measure and how long the test should be run. Analyze the results of an A/B test that was run by Udacity and recommend whether or not to launch the change.
+A/B Testing
+https://www.udacity.com/course/ab-testing--ud257
+
+
