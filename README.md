@@ -1,9 +1,8 @@
 # Coursers
 This folder include all the courses (online and offline) 
 
-1. A/B Testing
-2. Machine Learning 
-3. Time Series Forecasting
+### Courses Finished 
+
 
 
 
@@ -35,7 +34,14 @@ https://www.udacity.com/course/segmentation-and-clustering--ud981
 
 ###Udacity Data Analyst Nanodegree
 
-
+1.	Find the Optimal Chopstick Length
+2.	Test a Perceptual Phenomenon
+3.	Investigate a Dataset
+4.	Wrangle OpenStreetMap Data
+5.	Explore and Summarize Data
+6.	Identify Fraud from Enron Email
+7.	Make Effective Data Visualization
+8.	Design an A/B Test
 
 ###Udacity Digital Marketing Nanodegree
 https://www.udacity.com/course/digital-marketing-nanodegree--nd018
