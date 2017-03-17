@@ -43,7 +43,17 @@ https://www.udacity.com/course/segmentation-and-clustering--ud981
 7.	Make Effective Data Visualization
 8.	Design an A/B Test
 
-###Udacity Digital Marketing Nanodegree
+### Udacity Machine Learning Nanodegree !!! 
+1. P0: Titanic Survival Exploration
+2. P1: Predicting Boston Housing Prices
+3. P2: Finding Donors for CharityML
+4. P3: Creating Customer Segments
+5. P4: Train a Smartcab to Drive
+6. P5: Build a Digit Recognition Program
+7. P6: Capstone Project
+
+
+###Udacity Digital Marketing Nanodegree !!!
 https://www.udacity.com/course/digital-marketing-nanodegree--nd018
 
 1. Marketing Fundamentals
@@ -55,8 +65,6 @@ https://www.udacity.com/course/digital-marketing-nanodegree--nd018
 7. Display Advertising
 8. Email Marketing
 9. Measure and Optimize with Google Analytics
-
-
 
 
 ###Statistics Refresh 
